@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lazydownsloth
-- 👀 I’m interested in hack
-- 🌱 I’m currently learning hacker
-- 💞️ I’m looking to collaborate on hacking
+- 👀 I’m interested in hack and data science
+- 🌱 I’m currently learning hacker and data scientist
+- 💞️ I’m looking to collaborate on hacking or data science
 - 📫 How to reach me ...
 
 <!---
